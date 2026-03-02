@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakrabortyabhisek&show_icons=true&locale=en" alt="chakrabortyabhisek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakrabortyabhisek&" alt="chakrabortyabhisek" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chakrabortyabhisek)](https://git.io/streak-stats)
